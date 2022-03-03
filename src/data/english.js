@@ -67,7 +67,7 @@ const data = {
   keySkills: {
     title: 'Key skills',
     list: [
-      { text: 'HTML5, CSS3' },
+      { text: 'HTML5, CSS3, SCSS, Bootstrap, Framer Motion' },
       { text: 'JavaScript' },
       { text: 'React, JSX' },
       { text: 'Responsive Web Design' },
