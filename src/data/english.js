@@ -31,7 +31,7 @@ const data = {
     title: 'Summary',
     text: `
       Hello! I am a Front-end developer that has 1 year of experience developing web 
-      applications and building websites. I am constantly expanding my knowledge by actively contributing to Open Source projects.`,
+      applications and building websites. I am constantly expanding my knowledge and technical resume by actively contributing to Open Source Projects and studying HTML,CSS and JavaScript any chance can I get. I enjoy using React JS and libraries like Framer Motion to make my front end applications look great.`,
   },
 
   /**
@@ -67,10 +67,10 @@ const data = {
   keySkills: {
     title: 'Key skills',
     list: [
+      { text: 'HTML5, CSS3' },
       { text: 'JavaScript' },
       { text: 'React, JSX' },
       { text: 'Responsive Web Design' },
-      { text: 'HTML5, CSS3' },
     ],
   },
 
@@ -118,7 +118,7 @@ const data = {
     title: 'Projects',
     list: [
       {
-        name: 'JavaScript AI (view project)', 
+        name: 'JavaScript personal assistant (view project)', 
         techList: [
           'HTML5',
           'CSS',
@@ -126,15 +126,15 @@ const data = {
           
         ],
         description: `
-          This is Hue. I want to recreate a 'Siri' like application that serves both as a learning tool and a peronal assistant when coding. I use and work on Hue almost eveyday.Hue is good for setting reminders and playing background music. He's not bad at light conversations either. Hue is fully responsive.`,
+          This is Hue. I want to recreate a 'Siri' like application that serves both as a learning tool, and a peronal assistant when coding. I use and work on Hue almost eveyday. Hue is great for setting reminders and playing background music. He's not bad at light conversations either. Hue is fully responsive. Im currently working on building hue into a mobile app for ios.`,
         url: 'https://tuscannycodes.github.io/Javascript_HueAi_V2/',
       },
       {
         name: 'Code For Orlando Website (view project)',
-        techList: ['Bootstrap', 'HTML5', 'CSS', 'Photoshop'],
+        techList: ['Bootstrap','React js', 'HTML5', 'CSS', 'Photoshop'],
         description: `
-          This is a website that I am very proud to be a part of. I built this website for Code For Orlando. Code for Orlando is a brigade of Code for America. We are a voluenteer group that meets and finds diffrent ways to help people in our community with code. We meet a few times a month to discuss current projects. This website is fully responsive. `,
-        url: 'https://tuscannycodes.github.io/CFO_Website/',
+          This is a website that I am very proud to be a part of. I helped code the front end design for the Code For Orlando website. Code for Orlando is a brigade of Code for America. We are a voluenteer group that meets and finds diffrent ways to help people in our community with code. We meet a few times a month to discuss current projects. This website is fully responsive. `,
+        url: 'https://codefororlando.com/',
       },
 
       {
@@ -175,7 +175,7 @@ const data = {
         },
         jobTitle: 'Substitute Teacher',
         description: `
-          I would carry out lesson plans left from teachers and maintain classroom learning enviornment and predetermined schedule of students. This role was great because working at many diffrent schools and with varied classroom enviornments required me to learn to adapt fast and always exercise strong leadership qualities.`,
+          I carry out lesson plans left from teachers and maintain classroom learning enviornment and predetermined schedule of students. This role was great because working at many diffrent schools and with varied classroom enviornments required me to learn to adapt fast and always exercise strong leadership qualities.`,
       },
      
     ],
@@ -208,7 +208,7 @@ const data = {
     list: [
       {
         institution: 'Full Sail University ',
-        description: 'Computer Science',
+        description: 'bachelors Computer Science',
         date: {
           start: '2011',
           end: '2012',
