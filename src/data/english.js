@@ -117,6 +117,24 @@ const data = {
   projects: {
     title: 'Projects',
     list: [
+
+      {
+        name: '2022 Resume', 
+        techList: [
+          'HTML5',
+          'CSS',
+          'JavaScript',
+          'React js'
+          
+        ],
+        description: `
+        This is my updated resume, built using React js!`,
+        url: 'https://github.com/tuscannyCodes/Resume-built-with-React',
+      },
+
+
+
+
       {
         name: 'JavaScript personal assistant (view project)', 
         techList: [
