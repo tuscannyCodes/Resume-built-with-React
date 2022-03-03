@@ -82,9 +82,9 @@ const data = {
     list: [
       { text: 'GitHub, Git' },
       { text: 'Node.js' },
-      { text: 'CSS-in-JS' },
       { text: 'Photography' },
       { text: 'Adobe Photoshop' },
+      { text: 'Video Editing(Divinci Resolve)'},
     ],
   },
 
