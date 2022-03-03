@@ -178,7 +178,7 @@ const data = {
         location: 'Orlando, Florida',
         date: {
           start: '2017-2019',
-          end: '2019-10',
+          end: '2018-2020',
         },
         jobTitle: 'Teacher',
         description: `
