@@ -30,8 +30,8 @@ const data = {
   summary: {
     title: 'Summary',
     text: `
-      Hello! I am a Front-end developer that has 1 year of experience developing web 
-      applications and building websites. I am constantly expanding my knowledge and technical resume by actively contributing to Open Source Projects and studying HTML,CSS and JavaScript any chance can I get. I enjoy using React JS and libraries like Framer Motion to make my front end applications look great.`,
+      Hello! I am a Front-end developer that has 2 years of experience developing web 
+      applications and building websites. I am constantly expanding my knowledge and technical resume by actively contributing to Open Source Projects and studying HTML,CSS and JavaScript any chance can I get. I enjoy using React JS and libraries like Framer Motion to make applications and websites look great.`,
   },
 
   /**
@@ -162,7 +162,7 @@ const data = {
           start: '2017-2019',
           end: '2019-10',
         },
-        jobTitle: 'Educator',
+        jobTitle: 'Teacher',
         description: `
           Working with students of all grade levels, I provide and follow through lesson plans and manage classroom enviorment to be conducive to learning and growth of all students. In this position, leadership qualities was very important and also the ablity to plan and manage time wisely.`,
       },
