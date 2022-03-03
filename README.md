@@ -1,24 +1,12 @@
 # Resume Builder
 
-I've recently needed to update my resume and I couldn't find any resume builders that would allow me to customize my resume the way I wanted. So I built this small app.
+This is my updated resume built using React! I like to revisit this often and make small tweaks and adjustments to keep everything up to date and looking the best it can. This was one of my first projecs I worked on when learning react and I learned alot from how it was buit and how to subtract and add diffrent elements. This resume was originaly built as a template by <a href="https://github.com/sitek94">Maciek Sitkowski</a>! Ive learned so much from him, and want to thank him so much for helping me learn how to code in React through this project, his youtube videos, and his numorous contributions on FreeCodeCamp.com.
 
 ## Short video about the project
 
 [![Youtube Video Thumbnail](./docs/youtube.PNG)](https://youtu.be/ZJ9f4-03Uqw)
 
-## How I built it?
-
-Each step of building this app is saved as a separate branch so it should be easy to explore the code.
-
-![Branches as steps of building the app](./docs/branches.PNG)
-
 ## Getting started
-
-### Clone the repository
-
-```bash
-$ git clone https://github.com/sitek94/resume-builder.git
-```
 
 ### Install the dependencies
 
