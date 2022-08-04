@@ -30,7 +30,7 @@ const data = {
   summary: {
     title: 'Summary',
     text: `
-      Hello! I am a Front-end developer that has 2 years of experience designing and building websites. I am constantly expanding my knowledge and technical resume by contributing to Open Source Projects,creating web designs in Figma, and studying various coding languages at any chance can I get. I enjoy using Python, Javascript and libraries like Framer Motion to make applications and websites look and feel great.`,
+      Hello! I am a Front-end developer that has 2 years of experience designing and building websites. I enjoy expanding my knowledge and technical resume by contributing to Open Source Projects,creating web designs in Figma, and studying various coding languages at any chance can I get. I enjoy using Python, Javascript and libraries like Framer Motion, to make applications and websites look and feel great.`,
   },
 
   /**
