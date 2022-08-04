@@ -136,16 +136,16 @@ const data = {
 
 
       {
-        name: 'JavaScript personal assistant (view project)', 
+        name: 'JavaScript Chatbot (view project)', 
         techList: [
           'HTML5',
           'CSS',
-          'JavaScript',
+          'React js',
           
         ],
         description: `
-          This is Hue. I want to recreate a 'Siri' like application that serves both as a learning tool, and a peronal assistant when coding. I use and work on Hue almost eveyday. Hue is great for setting reminders and playing background music. He's not bad at light conversations either. Hue is fully responsive. Im currently working on building hue into a mobile app for ios.`,
-        url: 'https://tuscannycodes.github.io/Javascript_HueAi_V2/',
+          This is Hue. I wanted to recreate a 'Siri' like application that serves both as a learning tool for myself, and a peronal assistant when coding. I use and work on Hue almost eveyday. Hue is great for setting reminders and playing background music. He's not bad at light conversations either. This project is also my portfolio website.`,
+        url: 'https://github.com/tuscannyCodes/hueV3',
       },
       {
         name: 'Code For Orlando Website (view project)',
@@ -156,11 +156,11 @@ const data = {
       },
 
       {
-        name: 'Responsive Solar Website (view project)',
+        name: 'Responsive Black and White Website (view project)',
         techList: ['HTML5','CSS', 'Javascript'],
         description: `
-          I built this website for a freelance client that needed a new website for their startup solar company. I built the website from scratch using HTML5 CSS and Vanilla Javascript to mirror the look of their business cards. This website is fully responsive.`,
-        url: 'https://tuscannycodes.github.io/Responsive-Solar-Company/',
+          I built this website with React JS. The design is crisp, spacious and makes great use of bold text and negative space. Smooth, physics based animation between pages is achieved using Framer Motion.`,
+        url: 'https://github.com/tuscannyCodes/TuscannyMakesCoolThings',
       },
     ],
   },
