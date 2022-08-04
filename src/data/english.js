@@ -157,7 +157,7 @@ const data = {
 
       {
         name: 'Responsive Black and White Website (view project)',
-        techList: ['HTML5','CSS', 'Javascript'],
+        techList: ['HTML5','CSS', 'React js'],
         description: `
           I built this website with React JS. The design is crisp, spacious and makes great use of bold text and negative space. Smooth, physics based animation between pages is achieved using Framer Motion.`,
         url: 'https://github.com/tuscannyCodes/TuscannyMakesCoolThings',
