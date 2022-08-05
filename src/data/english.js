@@ -30,7 +30,7 @@ const data = {
   summary: {
     title: 'Summary',
     text: `
-      Hello! I am a Front-end developer that has 2 years of experience designing and building websites. I enjoy expanding my knowledge and technical resume by contributing to Open Source Projects,creating web designs in Figma, and studying various coding languages at any chance can I get. I enjoy using Python, Javascript and libraries like Framer Motion, to make applications and websites look and feel great.`,
+      Hello! I am a Front-end developer that has 2 years of experience designing and building web applications. I enjoy expanding my knowledge and technical resume by contributing to Open Source Projects, creating web designs in Figma, and studying various coding languages at any chance can I get. `,
   },
 
   /**
@@ -144,14 +144,14 @@ const data = {
           
         ],
         description: `
-          This is Hue. I wanted to recreate a 'Siri' like application that serves both as a learning tool for myself, and a peronal assistant when coding. I use and work on Hue almost eveyday. Hue is great for setting reminders and playing background music. He's not bad at light conversations either. This project is also my portfolio website.`,
+          This is Hue. I wanted to recreate a 'Siri' like application that serves both as a learning tool for myself, and a personal assistant when coding. I use and work on Hue almost eveyday.`,
         url: 'https://github.com/tuscannyCodes/hueV3',
       },
       {
         name: 'Code For Orlando Website (view project)',
         techList: ['Bootstrap','React js', 'HTML5', 'CSS', 'Photoshop'],
         description: `
-          This is a website that I am very proud to be a part of. I helped code the front end design for the Code For Orlando website. Code for Orlando is a brigade of Code for America. We are a voluenteer group that meets and finds diffrent ways to help people in our community with code. We meet a few times a month to discuss current projects. This website is fully responsive. `,
+          This is a website that I am very proud to be a part of. I helped design and code the Code For Orlando website. Code for Orlando is a brigade of Code for America. We are a volunteer group that meets and finds different ways to help people in our community with code.`,
         url: 'https://codefororlando.com/',
       },
 
@@ -182,7 +182,7 @@ const data = {
         },
         jobTitle: 'Teacher',
         description: `
-          Working with students of all grade levels, I provide and follow through lesson plans and manage classroom enviorment to be conducive to learning and growth of all students. In this position, leadership qualities was very important and also the ablity to plan and manage time wisely.`,
+          Working with students of all grade levels, I provide and follow through lesson plans and manage classroom environment to be conducive to learning and growth of all students.`,
       },
       {
         company: 'Kelly Educational Staffing',
@@ -193,7 +193,7 @@ const data = {
         },
         jobTitle: 'Substitute Teacher',
         description: `
-          I carry out lesson plans left from teachers and maintain classroom learning enviornment and predetermined schedule of students. This role was great because working at many diffrent schools and with varied classroom enviornments required me to learn to adapt fast and always exercise strong leadership qualities.`,
+          I carry out lesson plans left from teachers and maintain classroom learning environment and predetermined schedule of students.`,
       },
      
     ],
